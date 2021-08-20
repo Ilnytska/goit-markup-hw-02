@@ -135,6 +135,7 @@ ul {
 .link-mail-footer,
 .link-phone-footer {
   color: #acacb0;
+  text-decoration: none;
 }
 .link-phone-footer:hover,
 .link-phone-footer:focus,
